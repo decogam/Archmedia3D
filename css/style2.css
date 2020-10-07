@@ -5674,7 +5674,8 @@ span.rec-by {
 .btn {
   border-radius: 3px;
   font-size: 12px;
-  font-weight: 700;
+  font-family: "Raleway", "Helvetica", "Arial", "SansSerif";
+  font-weight: 600;
   letter-spacing: 1px;
   outline: none;
   padding: 10px 15px;
@@ -5691,7 +5692,7 @@ span.rec-by {
   transition: all 0.3s;
   margin-bottom: 6px;
   outline: none;
-  line-height: 14px; }
+  line-height: 10px; }
   .btn:after {
     content: '';
     position: absolute;
