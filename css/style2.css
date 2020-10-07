@@ -5680,7 +5680,7 @@ span.rec-by {
   padding: 10px 15px;
   position: relative;
   overflow: hidden;
-  text-transform: uppercase;
+  text-transform: none;
   background-color: none;
   border-color: #fef205;
   border-width: 2px;
