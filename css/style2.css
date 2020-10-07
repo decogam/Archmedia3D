@@ -443,8 +443,8 @@ a {
   a:hover, a:focus, a:active {
     text-decoration: none;
     outline: none;
-    color: #1abc9c;
-    font-family: "Raleway", "Helvetica", "Arial", sans-serif;
+    color: #fef205;
+    font-family: Raleway, Helvetica, Arial, SansSerif;
  }
 
 /*
@@ -3662,6 +3662,9 @@ body.device-xs {
   width: 100%;
   margin-bottom: 26px;
   position: relative; }
+.grid-filter.gf-outline {
+}
+
   .grid-filter ul {
     list-style: none;
     padding: 0;
@@ -3812,6 +3815,7 @@ body.device-xs {
     margin: 0; }
 
 /*# sourceMappingURL=grid.css.map */
+
 
 /* ----------------------------------------------------------------------
 	Base Colors
@@ -5672,13 +5676,13 @@ span.rec-by {
   font-weight: 700;
   letter-spacing: 1px;
   outline: none;
-  padding: 12px 20px;
+  padding: 10px 15px;
   position: relative;
   overflow: hidden;
   text-transform: uppercase;
-  background-color: #1abc9c;
-  border-color: #1abc9c;
-  border-width: 1px;
+  background-color: none;
+  border-color: #fef205;
+  border-width: 2px;
   border-style: solid;
   color: #fff;
   -webkit-transition: all 0.3s;
@@ -5768,8 +5772,8 @@ span.rec-by {
         color: #ffffff; }
   .btn:hover, .btn:focus, .btn:active, .btn.active {
     outline: 0 !important;
-    background-color: #148f77;
-    border-color: #148f77;
+    background-color: #none;
+    border-color: #fef205;
     color: #fff; }
   .btn.btn-primary {
     background-color: #26B8F3;
