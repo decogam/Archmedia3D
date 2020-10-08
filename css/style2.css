@@ -30,12 +30,13 @@ html {
         font-size: 81.25%;
     }
 }
-body {
+body #wrap_all{
     font-size: 1em;
     line-height: 1.85714286em;
+	text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Raleway', 'Helvetica', 'Arial', sans-serif;
     color: #666666;
     font-weight: 400;
 }
