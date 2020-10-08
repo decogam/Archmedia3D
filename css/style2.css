@@ -290,11 +290,12 @@ html {
 body {
   font-size: 1em;
   line-height: 1.65714286em;
+  text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
   color: #565656;
-  font-weight: 400; }
+  font-weight: 600; }
 
 h1,
 h2,
