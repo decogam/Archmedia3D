@@ -237,7 +237,7 @@ section {
     width: 100%;
     overflow: hidden;
     z-index: 1;
-    background-color: #add;
+    background-color: #D5D8E0;
 }
 
 /* Panles */
@@ -12312,7 +12312,7 @@ body.device-xxs .text-medium-light {
   z-index: 0; }
 
 .background-colored {
-  background-color: #a2c4c9; }
+  background-color: #AEB6C1; }
 
 #particles-js {
   position: absolute;
