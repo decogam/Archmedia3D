@@ -237,7 +237,7 @@ section {
     width: 100%;
     overflow: hidden;
     z-index: 1;
-    background-color: #A5C1C9;
+    background-color: #FFFFFF;
 }
 
 /* Panles */
@@ -445,7 +445,7 @@ a {
   a:hover, a:focus, a:active {
     text-decoration: none;
     outline: none;
-    color: #fef205;
+    color: #5B93CD;
     font-family: "Raleway", "Helvetica", "Arial", "SansSerif";
     font-weight: 600;
     }
@@ -3696,10 +3696,10 @@ body.device-xs {
       border-color: transparent; }
     .grid-filter li:hover a, .grid-filter li.active a {
       color: #ffffff;
-      background-color: #fef200; }
+      background-color: #AEB6C1; }
   .grid-filter.gf-outline li:hover a, .grid-filter.gf-outline li.active a {
-    border-color: #fef205;
-    color: #fef205;
+    border-color: #AEB6C1;
+    color: #AEB6C1;
     background-color: transparent;
     font-family: "Raleway", "Helvetica", "Arial", "sans-serif";
 }
@@ -5685,7 +5685,7 @@ span.rec-by {
   overflow: hidden;
   text-transform: none;
   background-color: none;
-  border-color: #fef205;
+  border-color: #fff;
   border-width: 2px;
   border-style: solid;
   color: #fff;
@@ -5777,7 +5777,7 @@ span.rec-by {
   .btn:hover, .btn:focus, .btn:active, .btn.active {
     outline: 0 !important;
     background-color: #none;
-    border-color: #fef205;
+    border-color: #AEB6C1;
     color: #fff; }
   .btn.btn-primary {
     background-color: #26B8F3;
