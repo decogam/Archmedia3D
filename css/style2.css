@@ -18,6 +18,15 @@
 
 /*body*/
 
+/*FIX FONT FOR GOOGLE CHROME ON WINDOWS*/
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+@font-face {
+    font-family: 'MyFont';
+    src: url('fonts/myfont.svg#myfont') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+ }
+
 
 
 /**! 02. Typography **/
