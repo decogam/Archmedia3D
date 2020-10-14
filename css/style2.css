@@ -52,7 +52,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+    font-family: 'Raleway', 'Helvetica', 'Arial', sans-serif;
     color: #252525;
     font-weight: 300;
     font-variant-ligatures: common-ligatures;
@@ -237,7 +237,7 @@ section {
     width: 100%;
     overflow: hidden;
     z-index: 1;
-    background-color: #add;
+    background-color: #FFFFFF;
 }
 
 /* Panles */
@@ -293,7 +293,7 @@ body #wrap_all {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+  font-family: "Raleway", "Helvetica", "Arial", sans-serif;
   color: #565656;
   font-weight: 600; }
 
@@ -445,7 +445,7 @@ a {
   a:hover, a:focus, a:active {
     text-decoration: none;
     outline: none;
-    color: #fef205;
+    color: #5B93CD;
     font-family: "Raleway", "Helvetica", "Arial", "SansSerif";
     font-weight: 600;
     }
@@ -662,7 +662,7 @@ h6.font-parisienne {
   .heading-4 h1,
   .heading-4 h2,
   .heading-4 h3 {
-    font-family: "Nunito", "Helvetica", "Arial", sans-serif;
+    font-family: "Raleway", "Helvetica", "Arial", sans-serif;
     color: #000000;
     font-weight: 300;
     font-size: 50px;
@@ -670,7 +670,7 @@ h6.font-parisienne {
   .heading-4 p {
     font-size: 18px;
     line-height: 1.75;
-    font-family: "Roboto", "Helvetica", "Arial", sans-serif; }
+    font-family: "Raleway", "Helvetica", "Arial", sans-serif; }
     .heading-4 p span {
       font-weight: 600; }
   .heading-4.text-left p, .heading-4.text-right p {
@@ -1287,7 +1287,7 @@ Main Menu
           #mainMenu nav > ul > li .dropdown-menu > li > a,
           #mainMenu nav > ul > li .dropdown-menu > li > span,
           #mainMenu nav > ul > li .dropdown-menu > li [class*="col-"] > ul > li > a {
-            font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+            font-family: "Raleway", "Helvetica", "Arial", sans-serif;
             font-size: 13px;
             line-height: 14px;
             font-weight: 400;
@@ -1330,7 +1330,7 @@ Main Menu
           #mainMenu nav > ul > li.mega-menu-item .mega-menu-content {
             padding: 20px; }
             #mainMenu nav > ul > li.mega-menu-item .mega-menu-content .mega-menu-title {
-              font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+              font-family: "Raleway", "Helvetica", "Arial", sans-serif;
               font-size: 13px;
               line-height: 14px;
               font-weight: 700;
@@ -3121,7 +3121,7 @@ top: 50%;
     padding: 0;
     float: left; }
     #page-title .page-title > h1 {
-      font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+      font-family: "Raleway", "Helvetica", "Arial", sans-serif;
       font-size: 50px;
       font-style: normal;
       font-weight: 700;
@@ -3134,7 +3134,7 @@ top: 50%;
       color: #ffffff;
       font-weight: 100;
       font-size: 16px;
-      font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+      font-family: "Raleway", "Helvetica", "Arial", sans-serif;
       opacity: .7; }
   #page-title .breadcrumb {
     width: 30%;
@@ -3183,7 +3183,7 @@ top: 50%;
         color: #252525;
         font-weight: 100;
         font-size: 16px;
-        font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
+        font-family: "Raleway", "Helvetica", "Arial", sans-serif;
         opacity: .7; }
     #page-title.page-title-classic .breadcrumb {
       opacity: .6;
@@ -3696,10 +3696,10 @@ body.device-xs {
       border-color: transparent; }
     .grid-filter li:hover a, .grid-filter li.active a {
       color: #ffffff;
-      background-color: #fef200; }
+      background-color: #AEB6C1; }
   .grid-filter.gf-outline li:hover a, .grid-filter.gf-outline li.active a {
-    border-color: #fef205;
-    color: #fef205;
+    border-color: #AEB6C1;
+    color: #AEB6C1;
     background-color: transparent;
     font-family: "Raleway", "Helvetica", "Arial", "sans-serif";
 }
@@ -4511,12 +4511,12 @@ body.device-xs {
 .project-description {
   margin-bottom: 40px; }
   .project-description h2 {
-    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    font-family: "Raleway", "Helvetica", "Arial", sans-serif;
     font-size: 32px;
     font-weight: 600;
     margin-bottom: 20px; }
   .project-description h3 {
-    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    font-family: "Raleway", "Helvetica", "Arial", sans-serif;
     font-size: 22px;
     font-weight: 100;
     margin-bottom: 20px; }
@@ -4627,7 +4627,7 @@ body.device-xs {
       line-height: 23px;
       margin-bottom: 16px;
       color: #444;
-      font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+      font-family: "Raleway", "Helvetica", "Arial", sans-serif;
       font-weight: 600; }
     .post-item .post-item-description .post-meta-date,
     .post-item .post-item-description .post-meta-comments,
@@ -5685,7 +5685,7 @@ span.rec-by {
   overflow: hidden;
   text-transform: none;
   background-color: none;
-  border-color: #fef205;
+  border-color: #fff;
   border-width: 2px;
   border-style: solid;
   color: #fff;
@@ -5777,7 +5777,7 @@ span.rec-by {
   .btn:hover, .btn:focus, .btn:active, .btn.active {
     outline: 0 !important;
     background-color: #none;
-    border-color: #fef205;
+    border-color: #AEB6C1;
     color: #fff; }
   .btn.btn-primary {
     background-color: #26B8F3;
@@ -6197,7 +6197,7 @@ span.rec-by {
     margin-bottom: default-bottom-margin;
     color: #fef200;
     text-align: left;
-    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-family: "Raleway", "Helvetica", "Arial", sans-serif;
 }
   .heading.section-title > h1,
   .heading.section-title > h2 {
@@ -7041,14 +7041,14 @@ span.rec-by {
   .icon-box h3,
   .icon-box h5 {
     margin: 0 12px 10px 83px;
-    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-family: "Raleway", "Helvetica", "Arial", sans-serif;
     letter-spacing: 0px;
     font-size: 16px;
     line-height: 25px;
     font-weight: 700; }
   .icon-box p {
     margin: 0 0 20px 83px;
-    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-family:"Raleway", "Helvetica", "Arial", sans-serif;
     font-size: 16px;
     line-height: 28px;
     font-weight: 400; }
@@ -12312,7 +12312,7 @@ body.device-xxs .text-medium-light {
   z-index: 0; }
 
 .background-colored {
-  background-color: #a2c4c9; }
+  background-color: #AEB6C1; }
 
 #particles-js {
   position: absolute;
