@@ -33,12 +33,12 @@ html {
 body #wrap_all{
     font-size: 1em;
     line-height: 1.85714286em;
-	text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+	text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
     font-family: 'Raleway', 'Helvetica', 'Arial', sans-serif;
     color: #666666;
-    font-weight: 400;
+    font-weight: 300,400,500,600,700;
 }
 h1,
 h2,
