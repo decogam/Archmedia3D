@@ -433,7 +433,7 @@ strong {
     font-weight: 600;
     font-style: normal;
     line-height: 15px;
-    font-family: "Raleway", "Helvetica", "Arial", "SansSerif";
+    font-family: "Raleway", "Helvetica", "Arial", "sans-serif";
 }
 
 /*hr {
@@ -446,7 +446,7 @@ a {
     text-decoration: none;
     outline: none;
     color: #5B93CD;
-    font-family: "Raleway", "Helvetica", "Arial", "SansSerif";
+    font-family: "Raleway", "Helvetica", "Arial", "sans-serif";
     font-weight: 600;
     }
 
@@ -5676,7 +5676,7 @@ span.rec-by {
 .btn {
   border-radius: 3px;
   font-size: 12px;
-  font-family: "Raleway", "Helvetica", "Arial", "SansSerif";
+  font-family: "Raleway", "Helvetica", "Arial", "sans-serif";
   font-weight: 600;
   letter-spacing: 1px;
   outline: none;
